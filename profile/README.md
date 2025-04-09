@@ -62,12 +62,7 @@ We are a **collective of passionate traders, quantitative researchers, and techn
 ## Our Process
 
 1. **Idea Generation**  
-   - **Evaluate Strategy Categories**  
-     We begin by examining broad strategy types—such as **Trend Following**, **Breakout**, and **Mean Reversion**—to identify **subcategories of indicators** and signals that consistently contribute to successful strategies.  
-   - **Systematic Indicator Analysis**  
-     We then analyze, test, and refine each indicator (e.g., moving averages, momentum oscillators) to determine their suitability for different market conditions.  
-   - **Combining Entry/Exit Signals**  
-     Potential entry and exit rules are methodically combined to see which configurations yield robust performance across diverse data sets.
+   - Brainstorm market patterns, run exploratory data analyses, and identify potential edges.
 
 2. **Proof of Concept**  
    - Rapidly prototype strategies in backtesting environments using standard OHLC, volume, or tick data.  
